@@ -1,6 +1,6 @@
 # Getting Started with State street react challenge
 
-Clone this repo by following the command:
+Clone this repo by using the command:
 
 `git clone git@github.com:srikanthnallamothu2/state-street-react-challenge.git`
 
