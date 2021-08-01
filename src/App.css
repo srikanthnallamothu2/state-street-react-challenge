@@ -1,0 +1,60 @@
+header h2 {
+    border-bottom: 1px solid;
+    padding-bottom: 20px;
+}
+
+.transactions-view {
+    display: flex;
+}
+
+.transactions-view .filter-view {
+    position: fixed;
+    min-width: 250px;
+    margin-right: 10px;
+}
+
+.transactions-view .filter-view h3 {
+    margin-top: 0px;
+}
+
+
+.transactions-view .filter-view section {
+    display: flex;
+    flex-direction: column;
+    background: lightgray;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.transactions-view .filter-view section label {
+    cursor: pointer;
+}
+
+.transactions-view .table-view {
+    margin-left: 260px;
+    width: 100%;
+}
+
+.transactions-view .table-view table {
+    width: 100%;
+}
+
+.transactions-view .table-view table thead th {
+    text-align: left;
+}
+ /* details view styles */
+
+ .details-view {
+     padding: 100px 300px;
+ }
+ .details-view h2 {
+     border-bottom: 1 px solid;
+ }
+
+ .details-view section div {
+    padding: 5px 0px;
+ }
+
+ .details-view section {
+     padding-bottom: 20px;
+ }
