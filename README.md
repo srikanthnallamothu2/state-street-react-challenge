@@ -1,5 +1,9 @@
 # Getting Started with State street react challenge
 
+Clone this repo by following the command:
+
+`git clone git@github.com:srikanthnallamothu2/state-street-react-challenge.git`
+
 Navigate to project folder.
 
 In order to install package from npm, run folowing command.
